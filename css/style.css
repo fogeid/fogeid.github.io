@@ -43,7 +43,7 @@ p {
 }
 
 /* Ancoras */
-#ancora1, #ancora2, #ancora3, #ancora4 {
+#about-me, #skills, #projects, #contact {
     position: relative;
     top: -140px;
 }
