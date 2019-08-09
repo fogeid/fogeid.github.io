@@ -42,12 +42,6 @@ p {
     color: #000; 
 }
 
-/* Ancoras */
-#about-me, #skills, #projects, #contact {
-    position: relative;
-    top: -140px;
-}
-
 /* Header | Menu */
 .header .container {
     width: 100%;
