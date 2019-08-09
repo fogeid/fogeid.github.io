@@ -65,8 +65,7 @@ p {
     color: #fff;
     margin-top: 50px;    
     font-size: 40px;
-    position: relative;
-    left: -250px;    
+        
 }
 
 .header .container .logo a {
@@ -75,8 +74,7 @@ p {
 }
 
 .header .container .menu {
-    position: relative;
-    left: 250px;
+    
 }
 
 .header .container .menu ul {
@@ -144,7 +142,7 @@ p {
 
 /* Sobre Mim */
 .sobre .container {
-    height: 160px;
+    height: 180px;
     margin-bottom: 30px;    
 }
 
@@ -192,7 +190,7 @@ p {
 
 /* Contato */
 .contato .container {
-    height: 480px;
+    height: 500px;
     margin-bottom: 30px;
 }
 
@@ -274,22 +272,23 @@ p {
     text-align: center;
 }
 
-@media only screen and (min-width: 768px) and (max-width: 959px) {
-    .header .container .menu {
-        position: static;
-    }
-
+@media only screen and (min-width: 1024px) {
     .header .container .logo {        
-        position: static;
-    }
-}
-
-@media only screen and (max-width: 767px) {
+        position: relative;
+        left: -250px;
+    }   
+    
     .header .container .menu {
-        position: static;
+        position: relative;
+        left: 250px;
     }
 
-    .header .container .logo {        
-        position: static;
+    .sobre .container {
+        height: 160px; 
     }
+
+    .contato .container {
+        height: 480px;
+    }
+
 }
