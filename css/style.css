@@ -68,6 +68,11 @@ p {
     left: -190px;
 }
 
+.header .container .logo a {
+    text-decoration: none;
+    color: #fff;
+}
+
 .header .container .menu {
     position: relative;
     left: 265px;
