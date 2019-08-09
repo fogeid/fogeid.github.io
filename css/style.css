@@ -42,12 +42,20 @@ p {
     color: #000; 
 }
 
+/* Ancoras */
+#ancora1, #ancora2, #ancora3, #ancora4 {
+    position: relative;
+    top: -140px;
+}
+
 /* Header | Menu */
 .header {
     width: 100%;
     height: 120px;
     background: #000;
-    margin-bottom: 90px;
+    position: fixed;
+    z-index: 10;
+    top: 0px;
 }
 
 .header .container {
@@ -107,6 +115,7 @@ p {
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-top: 220px;
 }
 
 .main .container .avatar img {
