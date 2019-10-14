@@ -14,7 +14,7 @@ Desenvolvedor Front-end.
 
 ## Experiencia
 
-* 07/2019 - Atual Freelance -
+* 07/2019 - Atual (Freelance) -
   (Desenvolvedor Front-end Junior)<br>
   Criando aplicaçōes com ReactJS, VanillaJS, trabalhando tanto com criação de layouts como integrações com API Rest.<br>
  
