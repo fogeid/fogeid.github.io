@@ -14,22 +14,10 @@ Desenvolvedor Front-end.
 
 ## Experiencia
 
-- 06/2017 - 05/2018 **[Rafael Web](http://www.rafaelweb.com.br/2017/)** -
-  (Programador Junior)<br>
-  Criando Sites e E-commerce com Wordpress e Laravel.<br>
-  Aplicaçes Web com Laravel.<br>
-  Convertendo PSD para HTML, CSS e JavaScript.<br>
-
-- 05/2017 - 12/2018 **[BG7](http://www.bg7.com.br/pt/)** -
+* 07/2019 - Atual Freelance -
   (Desenvolvedor Front-end Junior)<br>
   Criando aplicaçōes com ReactJS, VanillaJS, trabalhando tanto com criação de layouts como integrações com API Rest.<br>
-  Criação de Landing Pages e temas para Wordpress com ACF.<br>
-
-* 12/2018 - Atual **[Future Brand](https://www.futurebrand.com/br)** -
-  (Desenvolvedor Front-end Junior)<br>
-  Criando aplicaçōes com ReactJS, VanillaJS, trabalhando tanto com criação de layouts como integrações com API Rest.<br>
-  Criação de Landing Pages e temas para Wordpress com ACF.<br>
-
+ 
 ### Front-end
 
 - HTML.
