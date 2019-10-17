@@ -26,6 +26,10 @@ Desenvolvedor Front-end.
 - Frameworks e Bibliotecas Front-end - (ReactJS, Redux)
 - Ferramentas - VSCode, EsLint, & Stylelint.
 
+### Back-end
+
+- NodeJS.
+
 ### Task Runner
 
 - Gulp.
