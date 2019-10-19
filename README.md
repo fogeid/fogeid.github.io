@@ -50,7 +50,8 @@ Desenvolvedor Front-end.
 
 ### CMS
 
-- Wordpress com ACF.
+- Wordpress.
+- Netilify
 
 ## Erro?
 
