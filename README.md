@@ -2,6 +2,8 @@
 
 Desenvolvedor Web / Front-end.
 
+Formação acadêmica: Universidade Federal do Mato Grosso - UFMT (Cursando)
+Curso: Ciência da Computação
 Cidade: Cuiabá / MT<br>
 Celular: (65) 9.9269 - 7045<br>
 Email: diego.silva@aluno.ic.ufmt.br
