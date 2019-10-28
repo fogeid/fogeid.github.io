@@ -30,6 +30,10 @@ Desenvolvedor Front-end.
 
 - NodeJS.
 
+### Mobile
+
+- React-Native.
+
 ### Task Runner
 
 - Gulp.
@@ -51,7 +55,7 @@ Desenvolvedor Front-end.
 ### CMS
 
 - Wordpress.
-- Netilify
+- Netilify.
 
 ## Erro?
 
