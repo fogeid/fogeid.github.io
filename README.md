@@ -30,13 +30,18 @@ Desenvolvedor Front-end.
 
 ### Back-end
 
-- NodeJS.
+- NodeJS - (ExpressJS, Nodemon, NestJS, AdonisJS).
 - Ferramentas - VSCode, EsLint, Stylelint, & Insomnia.
 
 ### Mobile
 
 - React-Native.
 - Ferramentas - VSCode, EsLint, Stylelint, & Genymotion (Expo).
+
+### Package Manager
+
+- Yarn. (Preferência)
+- NPM.
 
 ### Task Runner
 
