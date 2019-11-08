@@ -30,7 +30,7 @@ Desenvolvedor Front-end.
 
 ### Back-end
 
-- NodeJS - (ExpressJS, Nodemon, NestJS, AdonisJS).
+- NodeJS - (ExpressJS, Nodemon, NestJS, AdonisJS, JWT).
 - Ferramentas - VSCode, EsLint, Stylelint, & Insomnia.
 
 ### Mobile
