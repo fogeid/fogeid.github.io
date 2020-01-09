@@ -18,7 +18,7 @@ Desenvolvedor Front-end.
 
 * 01/2020 - Atual | Estágiario -
   (Desenvolvedor Front-end Junior)<br>
-  Criando aplicaçōes com ReactJS, trabalhando tanto com criação de layouts como integrações com API Rest.<br>
+  Trabalhando tanto com criação de layouts como integrações com API Rest.<br>
  
 ### Front-end
 
