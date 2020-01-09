@@ -16,9 +16,9 @@ Desenvolvedor Front-end.
 
 ## Experiencia
 
-* 07/2019 - Atual (Freelance) -
+* 01/2020 - Atual Estágiario -
   (Desenvolvedor Front-end Junior)<br>
-  Criando aplicaçōes com ReactJS, VanillaJS, trabalhando tanto com criação de layouts como integrações com API Rest.<br>
+  Criando aplicaçōes com ReactJS, trabalhando tanto com criação de layouts como integrações com API Rest.<br>
  
 ### Front-end
 
