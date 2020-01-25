@@ -67,10 +67,6 @@ p {
     color: #fff;
 }
 
-.header .container .menu {
-    
-}
-
 .header .container .menu ul {
     display: flex;
     flex-direction: row;    
@@ -89,8 +85,7 @@ p {
 
 .header .container .menu ul li:hover {
     transform: translateY(-5px);
-    transition: all 0.2s;
-    
+    transition: all 0.2s;    
 }
 
 /* Conteúdo Principal */
