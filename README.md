@@ -17,7 +17,7 @@ Desenvolvedor Front-end.
 ## Experiencia
 
 * 01/2020 - Atual | Estágiario -
-  (Desenvolvedor Front-end Junior)<br>
+  (Desenvolvedor Front-end)<br>
   Trabalhando tanto com criação de layouts como integrações com API Rest.<br>
  
 ### Front-end
@@ -56,6 +56,7 @@ Desenvolvedor Front-end.
 - CorelDraw.
 - Photoshop.
 - Adobe XD.
+- Figma.
 
 ### Version control
 
