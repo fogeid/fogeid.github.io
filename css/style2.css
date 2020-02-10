@@ -1,0 +1,283 @@
+body {
+    width: 100%;    
+    background: #cccccc;
+}
+
+.container {
+    width: 95%;
+    background: #fff;
+    margin: 0 auto;
+    padding: 0px;
+    position: relative;
+}
+
+.container:after,
+.container:before {
+    content: " ";
+    display: table;
+}
+
+.container:after {
+    clear: both;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 28px;
+    line-height: 20px;
+    color: #000;    
+    padding: 30px 0 20px 30px;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    line-height: 20px;
+    color: #000;    
+}
+
+p {
+    font-family: 'Blinker', sans-serif;
+    font-size: 18px;
+    color: #000; 
+}
+
+/* Header | Menu */
+.header .container {
+    width: 100%;
+    height: 120px;
+    background: #000;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    position: fixed;
+    z-index: 10;
+    top: 0;
+}
+
+.header .container .logo {
+    color: #fff;
+    margin-top: 50px;    
+    font-size: 40px;
+        
+}
+
+.header .container .logo a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.header .container .menu ul {
+    display: flex;
+    flex-direction: row;    
+    margin-top: 90px;    
+}
+
+.header .container .menu ul li a {
+    font-family: 'Blinker', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;       
+    text-decoration: none;
+    letter-spacing: 2px;
+    padding-left: 25px;
+}
+
+.header .container .menu ul li:hover {
+    transform: translateY(-5px);
+    transition: all 0.2s;    
+}
+
+/* Conteúdo Principal */
+.main .container {
+    height: 200px;
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 220px;
+}
+
+.main .container .avatar img {
+    max-width: 150px;    
+    border-radius: 50%;
+    margin-top: -85px;
+    margin-bottom: 20px;
+    border: 5px solid #cccccc;
+}
+
+.main .container .bio {    
+    text-align: center;
+    text-decoration: none;
+}
+
+.main .container .bio ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-family: 'Blinker', sans-serif;
+    padding-top: 20px;
+}
+
+.main .container .bio ul li {
+    padding-left: 20px;
+    letter-spacing: 1px;
+    text-decoration: none;
+}
+
+.main .container .bio ul li a {    
+    text-decoration: none;
+}
+
+/* Sobre Mim */
+.sobre .container {
+    height: 180px;
+    margin-bottom: 30px;    
+}
+
+.sobre .container p {
+    width: 90%;
+    line-height: 20px;
+    letter-spacing: 1px;
+    text-indent: 10px;    
+    text-align: left;
+    margin: 0 auto;   
+}
+
+/* Habilidades */
+.habilidades .container {
+    height: 750px;
+    margin-bottom: 30px; 
+}
+
+.habilidades .container h2 {
+    padding: 30px 0 0 30px;
+}
+
+.habilidades .container ul {    
+    width: 60%;    
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    justify-content: space-around;
+}
+
+.habilidades .container h3 {
+    text-align: center;
+    padding: 30px 0;
+}
+
+.habilidades .container ul li img {
+    width: 130px;
+}
+
+/* Projetos */
+.projetos .container {
+    height: 400px;
+    margin-bottom: 30px;
+}
+
+/* Contato */
+.contato .container {
+    height: 500px;
+    margin-bottom: 30px;
+}
+
+.contato .container p {
+    width: 60%;
+    line-height: 20px;
+    letter-spacing: 1px;
+    text-align: center;
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
+
+.contato .container .form {    
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.contato .container .form input {
+    width: 700px;
+    height: 20px;
+    padding: 5px;
+    border: 1px solid #000;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+.contato .container .form textarea {
+    width: 700px;
+    border: 1px solid #000;
+    font-size: 16px;
+    padding: 5px;
+}
+
+.contato .container .form button {
+    width: 70px;
+    height: 30px;
+    background: none;
+    border: 1px solid #000;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.contato .container .form button:hover {
+    background: #000;
+    color: #fff;
+}
+
+/* Rodapé */
+.rodape {
+    width: 100%;    
+    background: #000;
+}
+
+.rodape .container {
+    background: none;
+    height: 150px;
+}
+
+.rodape .container ul {
+    display: flex;
+    flex-direction: row;
+    margin: 20px auto;
+    width: 200px;
+}
+
+.rodape .container ul li {
+    margin: 0 auto;
+}
+
+.rodape .container ul li a img {
+    width: 50px;
+}
+
+.rodape .container p {
+    color: #fff;
+    text-align: center;
+}
+
+@media only screen and (min-width: 1024px) {
+    .header .container .logo {        
+        position: relative;
+        left: -250px;
+    }   
+    
+    .header .container .menu {
+        position: relative;
+        left: 250px;
+    }
+
+    .sobre .container {
+        height: 160px; 
+    }
+
+    .contato .container {
+        height: 480px;
+    }
+
+}
