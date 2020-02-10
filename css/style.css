@@ -10,7 +10,7 @@ main {
 }
 
 main .perfil .foto_perfil {
-    width: 150px;
+    max-width: 150px;
     border-radius: 50%;
     border: 2.5px solid #EB2F06;
 }
@@ -37,12 +37,12 @@ main .perfil span:hover {
 main .perfil p {
     font-size: 16px;
     font-weight: lighter;
-    width: 800px;
+    max-width: 800px;
     margin: 0 auto;
 }
 
 main .midia ul li img {
-    width: 30px;
+    max-width: 30px;
 }
 
 main .midia h2 {
