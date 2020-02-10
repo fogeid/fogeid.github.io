@@ -24,14 +24,14 @@ main .perfil h2 {
     font-size: 16px;
 }
 
-main .perfil span {
+main .perfil a {
     color: #EB2F06;
     transition: all .3s ease;
-    cursor: pointer;
 }
 
-main .perfil span:hover {
+main .perfil a:hover {
     color: #fff;
+    text-decoration: none;
 }
 
 main .perfil p {
