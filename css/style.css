@@ -66,3 +66,32 @@ main .midia ul li + li {
 main .midia ul li a img {
     padding-right: 5px;
 }
+
+@media (min-width: 992px) { 
+    main .perfil .foto_perfil {
+        max-width: 150px;
+    }
+
+    main .perfil h1 {
+        font-size: 2.8rem;
+    }
+
+    main .perfil h2, main .perfil p {
+        font-size: 1rem;
+    }
+
+    main .perfil p {
+        width: 800px;
+        margin: 0 auto;
+    }
+    
+
+    main .midia h2, main .midia ul li a {
+        font-size: 1rem;
+    }
+
+    main .midia ul li img {
+        max-width: 30px;
+        margin-right: 0;
+    }
+}
