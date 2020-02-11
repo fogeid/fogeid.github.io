@@ -1,31 +1,68 @@
 body {
-    padding-top: 75px;
+    background: #0E0021;
+    font-family: 'Open Sans', sans-serif;
+    color: #fff;
 }
 
-.box-shadow {
-    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .05),
-                0 2px 8px 0 rgba(0, 0, 0, .05);
+/* MAIN */
+main {
+    padding-top: 200px;
 }
 
-#bg-cote {
-    background: url(../img/bg-quote.jpg) center center;
-    background-size: cover;
+main .perfil .foto_perfil {
+    width: 350px;
+    border-radius: 50%;
+    border: 2.5px solid #EB2F06;
 }
 
-.lista-plano li + li {
-    border-top: 1px solid rgba(0, 0, 0, .2); 
+main .perfil h1 {
+    font-size: 5rem;
+    font-weight: 600;
 }
 
-@media (max-width: 767px) {
-    #bg-cote .display-4 {
-        font-size: 2.5rem;
-    }
+main .perfil h2 {
+    font-size: 2rem;
+}
 
-    body {
-        padding-top: 0; 
-    }
+main .perfil a {
+    color: #EB2F06;
+    transition: all .3s ease;
+}
 
-    .fixed-top {
-        position: relative;
-    }
+main .perfil a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+main .perfil p {
+    font-size: 2rem;
+    font-weight: lighter;
+}
+
+main .midia ul li img {
+    width: 60px;
+    margin-right: 10px;
+}
+
+main .midia h2 {
+    font-size: 2rem;
+}
+
+main .midia ul li a {
+    color: #EB2F06;
+    transition: all .3s ease;
+    font-size: 2rem;
+}
+
+main .midia ul li a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+main .midia ul li + li {
+    padding-left: 50px;
+}
+
+main .midia ul li a img {
+    padding-right: 5px;
 }
