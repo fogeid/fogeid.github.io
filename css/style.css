@@ -67,6 +67,7 @@ main .midia ul li a img {
     padding-right: 5px;
 }
 
+/* QUERIES PARA VISUALIZAÇÃO DESKTOP */
 @media (min-width: 992px) { 
     main .perfil .foto_perfil {
         max-width: 150px;
