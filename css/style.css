@@ -1,68 +1,31 @@
 body {
-    background: #0E0021;
-    font-family: 'Open Sans', sans-serif;
-    color: #fff;
+    padding-top: 75px;
 }
 
-/* MAIN */
-main {
-    margin-top: 100px;
+.box-shadow {
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .05),
+                0 2px 8px 0 rgba(0, 0, 0, .05);
 }
 
-main .perfil .foto_perfil {
-    max-width: 150px;
-    border-radius: 50%;
-    border: 2.5px solid #EB2F06;
+#bg-cote {
+    background: url(../img/bg-quote.jpg) center center;
+    background-size: cover;
 }
 
-main .perfil h1 {
-    font-size: 42px;
-    font-weight: 600;
+.lista-plano li + li {
+    border-top: 1px solid rgba(0, 0, 0, .2); 
 }
 
-main .perfil h2 {
-    font-size: 16px;
-}
+@media (max-width: 767px) {
+    #bg-cote .display-4 {
+        font-size: 2.5rem;
+    }
 
-main .perfil a {
-    color: #EB2F06;
-    transition: all .3s ease;
-}
+    body {
+        padding-top: 0; 
+    }
 
-main .perfil a:hover {
-    color: #fff;
-    text-decoration: none;
-}
-
-main .perfil p {
-    font-size: 16px;
-    font-weight: lighter;
-    max-width: 800px;
-    margin: 0 auto;
-}
-
-main .midia ul li img {
-    max-width: 30px;
-}
-
-main .midia h2 {
-    font-size: 16px;
-}
-
-main .midia ul li a {
-    color: #EB2F06;
-    transition: all .3s ease;
-}
-
-main .midia ul li a:hover {
-    color: #fff;
-    text-decoration: none;
-}
-
-main .midia ul li + li {
-    padding-left: 30px;
-}
-
-main .midia ul li a img {
-    padding-right: 5px;
+    .fixed-top {
+        position: relative;
+    }
 }
