@@ -17,7 +17,7 @@ Desenvolvedor Front-end.
 ## Experiencia
 
 * 01/2020 - Atual | Estágiario -
-  (Desenvolvedor Front-end)<br>
+  (Desenvolvedor Front-end na [Estuda.com](https://www.estuda.com/))<br>
   Trabalhando tanto com criação de layouts como integrações com API Rest.<br>
  
 ### Front-end
@@ -25,7 +25,7 @@ Desenvolvedor Front-end.
 - HTML.
 - CSS, Metodologias - (BEM), Pré processadores - (SASS), Mobile First, Media Queries, Flexbox.
 - JavaScript - (ES6, Vanilla JS, JQuery)
-- Frameworks e Bibliotecas Front-end - (ReactJS, Redux)
+- Frameworks e Bibliotecas Front-end - (ReactJS, Redux, Bootstrap)
 - Ferramentas - VSCode, EsLint, & Stylelint.
 
 ### Back-end
