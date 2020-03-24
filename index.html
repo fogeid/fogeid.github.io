@@ -24,10 +24,10 @@
         <main class="container-fluid" id="app">
             <div class="row justify-content-center">
                 <div class="col-md-8 perfil text-center">
-                    <img class="foto_perfil" v-bind:src="img" alt="Diego Batista">
+                    <img class="foto_perfil" :src="img" alt="Diego Batista">
                     <h1 class="mt-4">{{ name }}</h1>
-                    <h2 class="mt-2">{{ course }} at <a v-bind:href="linkUniversity" target="_blank">{{ university }}</a></h2>
-                    <h2>Front-end Developer Working @ <a v-bind:href="linkWork" target="_blank">{{ work }}</a></h2>
+                    <h2 class="mt-2">{{ course }} at <a :href="linkUniversity" target="_blank">{{ university }}</a></h2>
+                    <h2>Front-end Developer Working @ <a :href="linkWork" target="_blank">{{ work }}</a></h2>
                     <p class="my-4">
                         Hi, I'm Diego Batista, a Computer Science student at the Universidade Federal do Mato Grosso
                         and a front-end developer at the startup Estuda.com, I'm passionate about technology,
@@ -41,10 +41,10 @@
                     <h2>You can find me on:</h2>
                     <ul class="d-flex flex-row justify-content-center">
                         <li>
-                            <a class="d-flex align-items-center" v-bind:href="linkGithub" target="_blank"><img src="img/github.svg" alt="Github">{{ github }}</a>
+                            <a class="d-flex align-items-center" :href="linkGithub" target="_blank"><img src="img/github.svg" alt="Github">{{ github }}</a>
                         </li>
                         <li>
-                            <a class="d-flex align-items-center" v-bind:href="linkLinkedin" target="_blank"><img src="img/linkedin.svg" alt="Linkedin">{{ linkedin }}</a>
+                            <a class="d-flex align-items-center" :href="linkLinkedin" target="_blank"><img src="img/linkedin.svg" alt="Linkedin">{{ linkedin }}</a>
                         </li>
                     </ul>
                 </div>              
