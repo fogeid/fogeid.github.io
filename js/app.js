@@ -21,6 +21,6 @@ let app = new Vue({
 		linkGithub: 'https://github.com/fogeid',
 		linkedin: 'Linkedin',
 		linkLinkedin: 'https://www.linkedin.com/in/dbatista/',
-		img: 'img/foto.jpg',
+		img: 'img/photo.jpg',
 	}
 });
