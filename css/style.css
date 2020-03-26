@@ -5,93 +5,97 @@ body {
 }
 
 /* MAIN */
-main {
+.profile {
     padding-top: 100px;
 }
 
-main .perfil .foto_perfil {
+.profile .profile__photo {
     width: 350px;
     border-radius: 50%;
     border: 2.5px solid #EB2F06;
 }
 
-main .perfil h1 {
+.profile .profile__name {
     font-size: 5rem;
     font-weight: 600;
 }
 
-main .perfil h2 {
+.profile .profile__courseAndUniversity {
     font-size: 2rem;
 }
 
-main .perfil a {
+.profile .profile__courseAndUniversity--link,
+.profile .profile__work--link {
     color: #EB2F06;
     transition: all .3s ease;
 }
 
-main .perfil a:hover {
+.profile .profile__courseAndUniversity--link:hover,
+.profile .profile__work--link:hover {
     color: #fff;
     text-decoration: none;
 }
 
-main .perfil p {
+.profile .profile__description {
     font-size: 2rem;
     font-weight: lighter;
 }
 
-main .midia ul li img {
-    width: 60px;
-    margin-right: 10px;
-}
-
-main .midia h2 {
+.profile .profile__titleMidia {
     font-size: 2rem;
 }
 
-main .midia ul li a {
+.profile .profile__list .profile__icons + .profile__icons {
+    padding-left: 50px;
+}
+
+.profile .profile__list .profile__icons .profile__icons__link {
     color: #EB2F06;
     transition: all .3s ease;
     font-size: 2rem;
 }
 
-main .midia ul li a:hover {
+.profile .profile__list .profile__icons .profile__icons__link:hover {
     color: #fff;
     text-decoration: none;
 }
 
-main .midia ul li + li {
-    padding-left: 50px;
-}
-
-main .midia ul li a img {
+.profile .profile__list .profile__icons .profile__icons__link .profile__icons__img {
+    width: 60px;
+    margin-right: 10px;
     padding-right: 5px;
 }
 
 /* QUERIES PARA VISUALIZAÇÃO DESKTOP */
 @media (min-width: 992px) { 
-    main .perfil .foto_perfil {
+    .profile .profile__photo {
         max-width: 150px;
     }
 
-    main .perfil h1 {
+    .profile .profile__name {
         font-size: 2.8rem;
     }
 
-    main .perfil h2, main .perfil p {
+    .profile .profile__courseAndUniversity,
+    .profile .profile__work {
         font-size: 1rem;
     }
 
-    main .perfil p {
+    .profile .profile__description {
+        font-size: 1rem;
         width: 800px;
         margin: 0 auto;
     }
-    
 
-    main .midia h2, main .midia ul li a {
+    .profile .profile__titleMidia {
+        font-size: 1rem;
+    }    
+
+    .profile .profile__list .profile__icons .profile__icons__link {
         font-size: 1rem;
     }
 
-    main .midia ul li img {
+    .profile .profile__list .profile__icons .profile__icons__link .profile__icons__img {
         max-width: 30px;
         margin-right: 0;
     }
