@@ -8,19 +8,25 @@
 // 	}, 500);
 // });
 
-let app = new Vue({
-	el: '#app',
+let profile = new Vue({
+	el: '#profile',
 	data: {
 		name: 'Diego Batista',
 		course: 'Computer Science',
 		university: 'Universidade Federal do Mato Grosso',
 		linkUniversity: 'https://www.ufmt.br/ufmt/site/',
 		work: 'Estuda.com',
-		linkWork: 'https://estuda.com/',
+		linkWork: 'https://estuda.com/',		
+		img: 'img/photo.jpg',
+	}
+});
+
+let midia = new Vue({
+	el: '#midia',
+	data: {
 		github: 'Github',
 		linkGithub: 'https://github.com/fogeid',
 		linkedin: 'Linkedin',
 		linkLinkedin: 'https://www.linkedin.com/in/dbatista/',
-		img: 'img/photo.jpg',
-	}
+	},
 });

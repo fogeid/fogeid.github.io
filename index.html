@@ -21,13 +21,13 @@
         <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
     </head>
     <body>
-        <main class="profile container-fluid" id="app">
+        <main class="profile container-fluid" id="profile">
             <div class="row justify-content-center">
                 <div class="col-md-8 perfil text-center">
                     <img class="profile__photo" :src="img" alt="Diego Batista">
                     <h1 class="profile__name mt-4">{{ name }}</h1>
-                    <h2 class="profile__courseAndUniversity mt-2">{{ course }} at <a class="profile__courseAndUniversity--link" :href="linkUniversity" target="_blank">{{ university }}</a></h2>
-                    <h2 class="profile__work">Front-end Developer Working @ <a class="profile__work--link" :href="linkWork" target="_blank">{{ work }}</a></h2>
+                    <h2 class="profile__courseAndUniversity mt-2">{{ course }} at <a class="profile__courseAndUniversity__link" :href="linkUniversity" target="_blank">{{ university }}</a></h2>
+                    <h2 class="profile__work">Front-end Developer Working @ <a class="profile__work__link" :href="linkWork" target="_blank">{{ work }}</a></h2>
                     <p class="profile__description my-4">
                         Hi, I'm Diego Batista, a Computer Science student at the Universidade Federal do Mato Grosso
                         and a front-end developer at the startup Estuda.com, I'm passionate about technology,
@@ -36,20 +36,24 @@
                         an IT career.
                     </p>       
                 </div>
-                <div class="w-100"></div>
-                <div class="col-md-8 text-center">
-                    <h2 class="profile__titleMidia">You can find me on:</h2>
-                    <ul class="profile__list d-flex flex-row justify-content-center">
-                        <li class="profile__icons">
-                            <a class="profile__icons__link d-flex align-items-center" :href="linkGithub" target="_blank"><img class="profile__icons__img" src="img/github.svg" alt="Github">{{ github }}</a>
-                        </li>
-                        <li class="profile__icons">
-                            <a class="profile__icons__link d-flex align-items-center" :href="linkLinkedin" target="_blank"><img class="profile__icons__img" src="img/linkedin.svg" alt="Linkedin">{{ linkedin }}</a>
-                        </li>
-                    </ul>
-                </div>              
             </div>
         </main>
+        <section class="midia" id="midia">
+            <div class="row justify-content-center"></div>
+                <div class="col-md-8 container-fluid text-center">
+                    <h2 class="midia__title">You can find me on:</h2>
+                    <ul class="midia__list d-flex flex-row justify-content-center">
+                        <li class="midia__icons">
+                            <a class="midia__icons__link d-flex align-items-center" :href="linkGithub" target="_blank"><img class="midia__icons__img" src="img/github.svg" alt="Github">{{ github }}</a>
+                        </li>
+                        <li class="midia__icons">
+                            <a class="midia__icons__link d-flex align-items-center" :href="linkLinkedin" target="_blank"><img class="midia__icons__img" src="img/linkedin.svg" alt="Linkedin">{{ linkedin }}</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+        
         <script src="js/app.js"></script>
     </body>
 </html>
