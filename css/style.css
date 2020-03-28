@@ -20,17 +20,17 @@ body {
     font-weight: 600;
 }
 
-.profile .profile__courseAndUniversity {
+.profile .profile__course-university {
     font-size: 2rem;
 }
 
-.profile .profile__courseAndUniversity__link,
+.profile .profile__course-university__link,
 .profile .profile__work__link {
     color: #EB2F06;
     transition: all .3s ease;
 }
 
-.profile .profile__courseAndUniversity__link:hover,
+.profile .profile__course-university__link:hover,
 .profile .profile__work__link:hover {
     color: #fff;
     text-decoration: none;
@@ -77,7 +77,7 @@ body {
         font-size: 2.8rem;
     }
 
-    .profile .profile__courseAndUniversity,
+    .profile .profile__course-university,
     .profile .profile__work {
         font-size: 1rem;
     }
