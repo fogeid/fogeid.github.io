@@ -39,6 +39,12 @@ Desenvolvedor Front-end.
 - React-Native.
 - Ferramentas - VSCode, EsLint, Stylelint, & Genymotion (Expo).
 
+### Banco de Dados
+
+- PostgreSQL
+- MySQL
+- MongoDB
+
 ### Package Manager
 
 - Yarn. (Preferência)
