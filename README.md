@@ -47,7 +47,7 @@ Desenvolvedor Front-end.
 
 ### Package Manager
 
-- Yarn. (Preferência)
+- Yarn.
 - NPM.
 
 ### Task Runner
