@@ -18,7 +18,7 @@ Desenvolvedor Front-end.
 
 * 01/2020 - 06/2020 | Estágiario -
   (Desenvolvedor Front-end na [Estuda.com](https://www.estuda.com/))<br>
-  Trabalhando tanto com criação de layouts como desenvolvimento utilizando HTML5, CSS3, Bootstrap, JQuery, VueJS, JavaScript e PHP.<br>
+  Trabalhando tanto com criação de layouts como desenvolvimento utilizando HTML5, CSS3, Bootstrap, VueJS, JavaScript e PHP.<br>
  
 ### Front-end
 
