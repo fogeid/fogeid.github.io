@@ -7,6 +7,5 @@ module.exports = {
   },
   transpileDependencies: [
     'quasar'
-  ],
-  publicPath: 'fogeid.github.io'
+  ]
 }
