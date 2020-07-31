@@ -17,11 +17,11 @@ Desenvolvedor Front-end.
 ## Experiencia
 
 * 08/2020 - Atual | Front-end Developer Junior -
-  (Desenvolvedor Front-end na [Enext.com.br](https://www.enext.com.br/))<br>
+  ([Enext.com.br](https://www.enext.com.br/))<br>
   Trabalhando tanto com criação de layouts como desenvolvimento utilizando HTML5, CSS3, Bootstrap, VueJS, JavaScript e VTEX.<br>
 
 * 01/2020 - 06/2020 | Estágiario -
-  (Desenvolvedor Front-end na [Estuda.com](https://www.estuda.com/))<br>
+  ([Estuda.com](https://www.estuda.com/))<br>
   Trabalhando tanto com criação de layouts como desenvolvimento utilizando HTML5, CSS3, Bootstrap, VueJS, JavaScript e PHP.<br>
  
 ### Front-end
