@@ -77,6 +77,7 @@ Desenvolvedor Front-end.
 
 - Wordpress.
 - Netilify.
+- VTEX.
 
 ## Erro?
 
