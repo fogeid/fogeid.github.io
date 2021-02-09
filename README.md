@@ -35,7 +35,7 @@ Desenvolvedor Front-end.
 ### Back-end
 
 - NodeJS - (ExpressJS, Nodemon, NestJS, AdonisJS, JWT).
-- PHP - (Laravel).
+- Java - (JDBC, Hibernate, Spring Boot).
 - Ferramentas - VSCode, EsLint, Stylelint, & Insomnia.
 
 ### Mobile
