@@ -29,14 +29,14 @@ Desenvolvedor Front-end.
 - HTML.
 - CSS, Metodologias - (BEM), Pré processadores - (SASS), Mobile First, Media Queries, Flexbox.
 - JavaScript - (ES6, Vanilla JS, JQuery)
-- Frameworks e Bibliotecas Front-end - (VueJS, Vuex, Quasar, Bootstrap)
+- Frameworks e Bibliotecas Front-end - (VueJS, Vuex, React, Quasar, Bootstrap)
 - Ferramentas - VSCode, EsLint, & Stylelint.
 
 ### Back-end
 
 - NodeJS - (ExpressJS, Nodemon, NestJS, AdonisJS, JWT).
 - Java - (JDBC, Hibernate, Spring Boot).
-- Ferramentas - VSCode, EsLint, Stylelint, & Insomnia.
+- Ferramentas - VSCode, IntelliJ IDEA, EsLint, Stylelint, & Insomnia.
 
 ### Banco de Dados
 
@@ -70,7 +70,6 @@ Desenvolvedor Front-end.
 
 ### CMS
 
-- Wordpress.
 - Netilify.
 - VTEX.
 
