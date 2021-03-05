@@ -38,11 +38,6 @@ Desenvolvedor Front-end.
 - Java - (JDBC, Hibernate, Spring Boot).
 - Ferramentas - VSCode, EsLint, Stylelint, & Insomnia.
 
-### Mobile
-
-- React-Native.
-- Ferramentas - VSCode, EsLint, Stylelint, & Genymotion (Expo).
-
 ### Banco de Dados
 
 - PostgreSQL
