@@ -29,7 +29,7 @@ Desenvolvedor Front-end.
 - HTML.
 - CSS, Metodologias - (BEM), Pré processadores - (SASS), Mobile First, Media Queries, Flexbox.
 - JavaScript - (ES6, Vanilla JS, JQuery).
-- Frameworks e Bibliotecas Front-end - (VueJS, React, Quasar, Bootstrap).
+- Frameworks e Bibliotecas Front-end - (Bootstrap, React, Styled Components).
 - Ferramentas - VSCode, EsLint, & Stylelint.
 
 ### Back-end
