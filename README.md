@@ -30,14 +30,14 @@ Desenvolvedor Front-end.
 - CSS, Metodologias - (BEM), Pré processadores - (SASS), Mobile First, Media Queries, Flexbox.
 - JavaScript - (ES6, Vanilla JS, JQuery).
 - Frameworks e Bibliotecas Front-end - (Bootstrap, React, Styled Components).
-- Testes Automatizados - (Cypress).
+- Testes Automatizados - (Cypress, Jest).
 - Ferramentas - VSCode, EsLint, & Stylelint.
 
 ### Back-end
 
 - NodeJS - (ExpressJS, Nodemon, NestJS, AdonisJS, JWT).
-- Java - (JDBC, Hibernate, Spring Boot).
-- Ferramentas - VSCode, IntelliJ IDEA, EsLint, Stylelint, & Insomnia.
+- Java - (Hibernate, Spring Boot, Spring MVC).
+- Ferramentas - VSCode, IntelliJ IDEA, STS4, EsLint, Stylelint, & Insomnia.
 
 ### Banco de Dados
 
