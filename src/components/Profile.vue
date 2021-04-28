@@ -45,8 +45,8 @@ export default {
       course: "Computer Science",
       university: "Universidade Federal do Mato Grosso",
       linkUniversity: "https://www.ufmt.br/",
-      work: "Enext Consultoria",
-      linkWork: "http://enext.com.br/"
+      work: "Zup Innovation",
+      linkWork: "https://www.zup.com.br/"
     };
   }
 };
