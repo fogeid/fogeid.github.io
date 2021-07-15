@@ -38,7 +38,8 @@ Desenvolvedor Full-Stack.
 ### Back-end
 
 - NodeJS - (ExpressJS, Nodemon, NestJS, AdonisJS, JWT).
-- Java - (Hibernate, Spring Boot, Spring MVC, Spring Data, Spring Security, Validation, JWT, Swagger).
+- Java - (Hibernate, Spring Boot, Spring MVC, Spring Data, Spring Security, Spring Boot Actuator ,Validation, JWT, Swagger).
+- Docker, Docker-Compose;
 - Ferramentas - VSCode, IntelliJ IDEA, STS4, EsLint, Stylelint, & Insomnia.
 
 ### Banco de Dados
