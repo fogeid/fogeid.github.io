@@ -1,6 +1,6 @@
 # Diego Batista
 
-Desenvolvedor Full-Stack.
+Desenvolvedor FullStack.
 
 Formação acadêmica: Universidade Federal do Mato Grosso - UFMT (Cursando)<br>
 Curso: Ciência da Computação<br>
