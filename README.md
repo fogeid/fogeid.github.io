@@ -14,8 +14,12 @@ Email: diego.silva@aluno.ic.ufmt.br
 - [Linkedin](https://www.linkedin.com/in/dbatista/)
 
 ## Experiencia
-* 06/2021 - Atual | Back-end Developer Junior - ([Zup Innovation](https://www.zup.com.br/))<br>
-  Trabalhando desenvolvendo api's rest com Java, Spring Web, Spring Data, Spring Security, Validation...<br>
+* 09/2021 - Atual | FullStack Developer Pleno - ([Zup Innovation](https://www.zup.com.br/))<br>
+  Trabalhando desenvolvendo api's rest com Java, Spring Web, Spring Data, Spring Security, Validation... E implementação
+  de layouts em React.<br>
+  
+  * 06/2021 - 09/2021 | Back-end Developer Junior - ([Zup Innovation](https://www.zup.com.br/))<br>
+    Trabalhando desenvolvendo api's rest com Java, Spring Web, Spring Data, Spring Security, Validation...<br>
 
 * 08/2020 - 04/2021 | Front-end Developer Junior -
   ([Enext Consultoria](https://www.enext.com.br/))<br>
