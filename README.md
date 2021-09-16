@@ -18,10 +18,10 @@ Email: diego.silva@aluno.ic.ufmt.br
   Trabalhando desenvolvendo api's rest com Java, Spring Web, Spring Data, Spring Security, Validation... E implementação
   de layouts em React.<br>
   
-  * 06/2021 - 09/2021 | Back-end Developer Junior - ([Zup Innovation](https://www.zup.com.br/))<br>
-    Trabalhando desenvolvendo api's rest com Java, Spring Web, Spring Data, Spring Security, Validation...<br>
+  * 06/2021 - 09/2021 | Backend Developer Junior - ([Zup Innovation](https://www.zup.com.br/))<br>
+    Trabalhando desenvolvendo api's rest com Java/Kotlin, Spring Web, Spring Data, Spring Security, Validation, Kafka e Micronaut<br>
 
-* 08/2020 - 04/2021 | Front-end Developer Junior -
+* 08/2020 - 04/2021 | Frontend Developer Junior -
   ([Enext Consultoria](https://www.enext.com.br/))<br>
   Trabalhando com desenvolvimento de layouts utilizando HTML5, CSS3, Bootstrap, JavaScript, JQuery, ReactJS e VTEX.<br>
 
