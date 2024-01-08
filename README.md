@@ -25,7 +25,7 @@ Email: diego.silva@aluno.ic.ufmt.br
   ([Enext Consultoria](https://www.enext.com.br/))<br>
   Trabalhando com desenvolvimento de layouts utilizando HTML5, CSS3, Bootstrap, JavaScript, JQuery, ReactJS e VTEX.<br>
 
-* 01/2020 - 06/2020 | Estágiario -
+* 01/2020 - 06/2020 | Estagiário -
   ([Estuda.com](https://www.estuda.com/))<br>
   Trabalhando tanto com criação de layouts como desenvolvimento utilizando HTML5, CSS3, Bootstrap, VueJS, JavaScript e PHP.<br>
  
